@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# This script installs a basic configuration for an Ubuntu Server
 # Written by: Andrew Raymer
 # Last Modified By: Andrew Raymer
 VERSION="1.0.1"
